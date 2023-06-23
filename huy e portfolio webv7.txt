@@ -1,0 +1,84 @@
+	<html>
+		<head>
+			<title>Huy's E-Portfolio</title>
+			<style type="text/css">
+				body {
+
+					background-image: (chicken img2.jfif');
+					background-repeat: no-repeat;
+					background-attachment: fixed;
+					background-size: cover;
+					margin-left: 20%;
+					margin-right: 20%;
+					border: lpx dotted gray;
+					padding: 10px 10px 10px 10px;
+					font-family:sans-serif;
+			
+				}
+
+	img:hover {
+
+	transform: scale(1.3);
+	
+	}
+
+			img {
+
+	display:block;
+	
+	margin-left:auto;
+
+	margin-right:auto;
+	
+	width: 600px;
+
+	height:auto;
+
+	}
+
+		</style>
+
+	</head>
+	
+	<style>
+
+	h1 {text-align:center;}
+
+	p {text-align:center;}
+
+	</style>
+
+	<body>
+
+		<h1>Magazine Cover</h1>
+
+		<p>A fun project designer a military magazine</p>
+
+		<img src="magazine cover image.jpg" class="center">
+
+
+		<h2>Triangle Soda</h2>
+
+		<p>Testing and creating shapes with powerpoint.</p>
+
+		<img src="triangle soda.jpg" class="center">
+
+
+		<h2>Website about playing cards</h2>
+		
+		<p>making our first website that is about cards</p>
+
+		<img src="kingdom website.jpg" class="center"
+
+
+		<h2>creating a ripoff starbucks website</h2>
+	
+		<p>A website created to gain experience.</p>
+
+		<img src="coffee website.jpg" class="center">
+
+
+		<h2>Directions</h2>
+
+		<body>
+	</html>?
